@@ -40,4 +40,4 @@ Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 - Jupyter Notebook: Interactive platform for running Python code and documenting the project.
 
 # **Author:**
-# Viraj N. Bhutada
+# Abdul Aagariya
